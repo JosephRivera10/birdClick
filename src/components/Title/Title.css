@@ -1,0 +1,21 @@
+.titlesection {
+    background-image: url(http://3.bp.blogspot.com/-yglU0n-xZzs/Vls4iusp_PI/AAAAAAAAfxA/-P90KNVk9oc/s1600/tumblr-background-6-cool-backgrounds.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 280px;
+    text-align: center;
+    vertical-align: center;
+    color: #3abfc5;
+    text-shadow: 0 2px 3px #000;
+    margin-bottom: 20px;
+}
+
+.titlesection h1 {
+    margin-top: 90px;
+    font-size: 80px;
+}
+
+.titlesection p {
+    font-size: 30px;
+}
